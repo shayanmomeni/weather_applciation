@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_application/features/weather/data/data/remote_weather_data.dart';
 import 'package:weather_application/features/weather/data/repo/weather_repo_impl.dart';
-import 'package:weather_application/features/weather/presentation/bloc/weather_block.dart';
+import 'package:weather_application/features/weather/presentation/bloc/weather_bloc.dart';
 import 'package:weather_application/features/weather/presentation/views/weather_screen.dart';
 
 void main() {

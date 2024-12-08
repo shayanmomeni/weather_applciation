@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_application/core/constants/config.dart';
 import 'package:weather_application/core/utils/enums.dart';
 import 'package:weather_application/features/weather/data/data/local_weather_data.dart';
-import 'package:weather_application/features/weather/presentation/bloc/weather_block.dart';
+import 'package:weather_application/features/weather/presentation/bloc/weather_bloc.dart';
 import 'package:weather_application/features/weather/presentation/bloc/weather_events.dart';
 import 'package:weather_application/features/weather/presentation/bloc/weather_states.dart';
 import 'package:weather_application/features/weather/presentation/widgets/appbar_widget.dart';
